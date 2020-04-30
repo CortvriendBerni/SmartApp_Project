@@ -1,0 +1,22 @@
+We starten op de pagina met Alle competitions.
+Van hieruit klik je op een competition.
+Dan kom je uit bij de teams in die competition.
+Hier kan je teams aanklikken en de info ervan bekijken.
+Bij de info staat onder andere de laats gespeelde matchen van dit team.
+Bij de info pagina van teams kan je de teams toevoegen aan favorieten.
+
+2 Bottemnavigators: Competitions en Favorieten.
+
+Available Competitions: 
+- Champions League V
+- FIFA World Cup X
+- Bundesliga V
+- Eredivisie V
+- Serie A V
+- Primera Division  V
+- Ligue 1 
+- Championship (Engeland) X
+- Primeira Liga X
+- European ChampionShip V
+- Serie A X
+- Premier League V
