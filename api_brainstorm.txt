@@ -14,7 +14,7 @@ Available Competitions:
 - Eredivisie V
 - Serie A V
 - Primera Division  V
-- Ligue 1 
+- Ligue 1 V
 - Championship (Engeland) X
 - Primeira Liga X
 - European ChampionShip V
